@@ -40,3 +40,7 @@ Checks if the integer precent changed has chagned adjusted the view to such that
 If the rotary encoder is chagned the time is set to the value at that postiont.
 
 RANGE: 0 Minutes to 99 Minutes and 59 Seconds.
+
+## DEMO
+
+https://www.youtube.com/watch?v=qtnIyW7uaUU
